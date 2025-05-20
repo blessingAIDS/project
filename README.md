@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-# Date:
+# Date:20.05.2025
 # AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
@@ -321,6 +321,8 @@ searchBar.addEventListener('keydown', function(event) {
 </html>
 ```
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/f1c40aed-fe64-461f-b646-29260fe9c780)
+
 ![image](https://github.com/user-attachments/assets/014661be-c50e-426f-ac0f-024823e4f276)
 
 # RESULT:
